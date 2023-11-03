@@ -1,16 +1,19 @@
-#Mon Oct 30 15:15:35 PKT 2023
-base.0=E\:\\Qasim\\JetpackComposeWidgets\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=E\:\\Qasim\\JetpackComposeWidgets\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=E\:\\Qasim\\JetpackComposeWidgets\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.3=E\:\\Qasim\\JetpackComposeWidgets\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.4=E\:\\Qasim\\JetpackComposeWidgets\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Thu Nov 02 16:57:08 PKT 2023
+base.0=E\:\\Qasim\\Jetpack-Compose-Widgets\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=E\:\\Qasim\\Jetpack-Compose-Widgets\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=E\:\\Qasim\\Jetpack-Compose-Widgets\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.3=E\:\\Qasim\\Jetpack-Compose-Widgets\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.4=E\:\\Qasim\\Jetpack-Compose-Widgets\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+base.5=E\:\\Qasim\\Jetpack-Compose-Widgets\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
-path.2=14/classes.dex
-path.3=9/classes.dex
-path.4=classes2.dex
+path.2=2/classes.dex
+path.3=6/classes.dex
+path.4=8/classes.dex
+path.5=classes2.dex
 renamed.0=classes.dex
 renamed.1=classes2.dex
 renamed.2=classes3.dex
 renamed.3=classes4.dex
 renamed.4=classes5.dex
+renamed.5=classes6.dex
