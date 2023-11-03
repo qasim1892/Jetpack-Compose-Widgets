@@ -7,6 +7,6 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="app_name">Jetpack Compose Widgets</string>
-    <style name="Theme.JetpackComposeWidgets" parent="android:Theme.Material.Light.NoActionBar"/>
+    <string name="app_name">Widget</string>
+    <style name="Theme.Widget" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>

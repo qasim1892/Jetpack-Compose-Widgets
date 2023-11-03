@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.aussource.jetpackcomposewidgets",
+  "applicationId": "com.aussource.widget",
   "variantName": "debug",
   "elements": [
     {
